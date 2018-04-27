@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.7668295254794657 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "type" 
+        xmin = 0 
+        xmax = 2.7668295254794657 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.7668295254794657 
+            text = "ereglilier-sf" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 2.7668295254794657 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.7668295254794657 
+            text = "ereglililer-sf-2" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.7668295254794657 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7474660039824812 
+            text = "er\e'glililer" 
+        intervals [2]:
+            xmin = 0.7474660039824812 
+            xmax = 1.1594257308942133 
+            text = "an\a'nenin" 
+        intervals [3]:
+            xmin = 1.1594257308942133 
+            xmax = 1.7852443324321712 
+            text = "man\o'lyalarini" 
+        intervals [4]:
+            xmin = 1.7852443324321712 
+            xmax = 2.145427700223763 
+            text = "yol\u'yor" 
+        intervals [5]:
+            xmin = 2.145427700223763 
+            xmax = 2.7668295254794657 
+            text = "g\a'liba" 
+    item [4]:
+        class = "TextTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 2.7668295254794657 
+        points: size = 0 
+    item [5]:
+        class = "IntervalTier" 
+        name = "translation" 
+        xmin = 0 
+        xmax = 2.7668295254794657 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.7668295254794657 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "notes" 
+        xmin = 0 
+        xmax = 2.7668295254794657 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.7668295254794657 
+            text = "" 

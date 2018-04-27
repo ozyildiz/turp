@@ -1,0 +1,64 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.038239323354219 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "type" 
+        xmin = 0 
+        xmax = 3.038239323354219 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.038239323354219 
+            text = "alanyalilar-sf" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 3.038239323354219 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.038239323354219 
+            text = "alanyalilar-sf-2" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 3.038239323354219 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.038239323354219 
+            text = "" 
+    item [4]:
+        class = "TextTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 3.038239323354219 
+        points: size = 0 
+    item [5]:
+        class = "IntervalTier" 
+        name = "translation" 
+        xmin = 0 
+        xmax = 3.038239323354219 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.038239323354219 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "notes" 
+        xmin = 0 
+        xmax = 3.038239323354219 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.038239323354219 
+            text = "" 

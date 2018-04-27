@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.9720678376645946 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "type" 
+        xmin = 0 
+        xmax = 2.9720678376645946 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.9720678376645946 
+            text = "limonlulular-sf" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 2.9720678376645946 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.9720678376645946 
+            text = "limonlulular-sf-1" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.9720678376645946 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8085506416477042 
+            text = "lim\o'nlulular" 
+        intervals [2]:
+            xmin = 0.8085506416477042 
+            xmax = 1.2968268774564198 
+            text = "yal\o'vanin" 
+        intervals [3]:
+            xmin = 1.2968268774564198 
+            xmax = 1.9246106092104842 
+            text = "ar\a'yollarini" 
+        intervals [4]:
+            xmin = 1.9246106092104842 
+            xmax = 2.3239508163540403 
+            text = "an\i'yor" 
+        intervals [5]:
+            xmin = 2.3239508163540403 
+            xmax = 2.9720678376645946 
+            text = "g\a'liba" 
+    item [4]:
+        class = "TextTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 2.9720678376645946 
+        points: size = 2 
+        points [1]:
+            number = 0.3400941602988361 
+            mark = "H*" 
+        points [2]:
+            number = 0.614983991023534 
+            mark = "L" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "translation" 
+        xmin = 0 
+        xmax = 2.9720678376645946 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.9720678376645946 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "notes" 
+        xmin = 0 
+        xmax = 2.9720678376645946 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.9720678376645946 
+            text = "" 

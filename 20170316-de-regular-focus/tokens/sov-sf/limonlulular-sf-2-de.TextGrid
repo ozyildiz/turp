@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.853615561530038 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "type" 
+        xmin = 0 
+        xmax = 2.853615561530038 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.853615561530038 
+            text = "limonlulular-sf" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 2.853615561530038 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.853615561530038 
+            text = "limonlulular-sf-2" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.853615561530038 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7761459455814155 
+            text = "lim\o'nlular" 
+        intervals [2]:
+            xmin = 0.7761459455814155 
+            xmax = 1.279324431456736 
+            text = "yal\o'vanin" 
+        intervals [3]:
+            xmin = 1.279324431456736 
+            xmax = 1.9237894872576398 
+            text = "ar\a'yollarini" 
+        intervals [4]:
+            xmin = 1.9237894872576398 
+            xmax = 2.295596250219699 
+            text = "an\i'yor" 
+        intervals [5]:
+            xmin = 2.295596250219699 
+            xmax = 2.853615561530038 
+            text = "g\a'liba" 
+    item [4]:
+        class = "TextTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 2.853615561530038 
+        points: size = 0 
+    item [5]:
+        class = "IntervalTier" 
+        name = "translation" 
+        xmin = 0 
+        xmax = 2.853615561530038 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.853615561530038 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "notes" 
+        xmin = 0 
+        xmax = 2.853615561530038 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.853615561530038 
+            text = "" 
